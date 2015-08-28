@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1440636435 source:/home/silver/Git/ITSE-Advanced-Cplusplus/Topic 01/main.cpp
+	<iostream>
+	"studentlist.h"
+
+1440633092 /home/silver/Git/ITSE-Advanced-Cplusplus/Topic 01/student.h
+	<string>
+
+1440636435 /home/silver/Git/ITSE-Advanced-Cplusplus/Topic 01/studentlist.h
+	"student.h"
+	<string>
+	<vector>
+
+1440633092 source:/home/silver/Git/ITSE-Advanced-Cplusplus/Topic 01/student.cpp
+	"student.h"
+
+1440636435 source:/home/silver/Git/ITSE-Advanced-Cplusplus/Topic 01/studentlist.cpp
+	"studentlist.h"
+	"student.h"
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1441663601 source:/home/silver/Git/ITSE-34669-Advanced-Cplusplus/Topic 03/fraction class/fraction.cpp
+	"fraction.h"
+	<iostream>
+
+1441663601 /home/silver/Git/ITSE-34669-Advanced-Cplusplus/Topic 03/fraction class/fraction.h
+	<iostream>
+
+1441663990 source:/home/silver/Git/ITSE-34669-Advanced-Cplusplus/Topic 03/fraction class/driver.cpp
+	"fraction.h"
+	<iostream>
+

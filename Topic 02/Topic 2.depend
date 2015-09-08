@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1440967067 source:/home/silver/Git/ITSE-34669-Advanced-Cplusplus/Topic 2/prime.cpp
+	"prime.h"
+
+1440963377 /home/silver/Git/ITSE-34669-Advanced-Cplusplus/Topic 2/prime.h
+	<vector>
+
+1440967075 source:/home/silver/Git/ITSE-34669-Advanced-Cplusplus/Topic 2/Prime_Debug.cpp
+	<iostream>
+	<vector>
+	"prime.h"
+

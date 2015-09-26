@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1443235794 source:/home/silver/Git/ITSE-34669-Advanced-Cplusplus/Topic 05/Name.cpp
+	<iostream>
+	<string>
+	"NameClassImplementation.h"
+
+1443203714 /home/silver/Git/ITSE-34669-Advanced-Cplusplus/Topic 05/NameClassImplementation.cpp
+	<iostream>
+	<string>
+
+1443203714 source:/home/silver/Git/ITSE-34669-Advanced-Cplusplus/Topic 05/NameClassImplementation.cpp
+	<iostream>
+	<string>
+
+1443236065 /home/silver/Git/ITSE-34669-Advanced-Cplusplus/Topic 05/NameClassImplementation.h
+	<iostream>
+	<string>
+	<algorithm>
+

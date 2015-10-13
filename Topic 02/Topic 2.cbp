@@ -19,6 +19,9 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="Prime_Debug.cpp" />
+		<Unit filename="prime.cpp" />
+		<Unit filename="prime.h" />
 		<Extensions>
 			<code_completion />
 			<envvars />

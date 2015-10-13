@@ -11,25 +11,25 @@ using namespace std;
 
 class fraction
 {
- public:
-  fraction();
-  fraction(int num, int den);
-  ~fraction();
-  fraction(const fraction& other);
-  fraction& operator=(const fraction& other);
-  void print();
-  bool reducible();
-  void reduceMe();
-  fraction reduce();
-  int getNumer();
-  int getDenom();
-  void setNumer(int num);
-  void setDenom(int den);
-  void setBoth(int num, int den);
+public:
+    fraction();
+    fraction(int num, int den);
+    ~fraction();
+    fraction(const fraction& other);
+    fraction& operator=(const fraction& other);
+    void print();
+    bool reducible();
+    void reduceMe();
+    fraction reduce();
+    int getNumer();
+    int getDenom();
+    void setNumer(int num);
+    void setDenom(int den);
+    void setBoth(int num, int den);
 
 
- private:
-  int numer, denom;
+private:
+    int numer, denom;
 };
 
 fraction add(fraction x, fraction y);

@@ -8,13 +8,13 @@ using namespace std;
 class studentlist
 {
 private:
-	vector<student> _SL;
+    vector<student> _SL;
 public:
-	studentlist();
-	int count();
-	int addnew(student);
-	int addnew(string, double);
-	student operator[] (int);
+    studentlist();
+    int count();
+    int addnew(student);
+    int addnew(string, double);
+    student operator[] (int);
 };
 
 #endif // STUDENTLIST_INCLUDED

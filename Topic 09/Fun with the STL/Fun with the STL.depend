@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1446497049 source:/home/silver/Git/ITSE-34669-Advanced-Cplusplus/Topic 09/Fun with the STL/Driver.cpp
+	<utility>
+	<string>
+	<vector>
+	<iostream>
+	<unordered_map>
+	<list>
+	<stack>
+

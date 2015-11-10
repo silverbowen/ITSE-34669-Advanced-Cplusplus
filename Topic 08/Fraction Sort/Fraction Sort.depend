@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1446148111 source:/home/silver/Git/ITSE-34669-Advanced-Cplusplus/Topic 08/Fraction Sort/driver.cpp
+	"fraction.h"
+
+1446155874 /home/silver/Git/ITSE-34669-Advanced-Cplusplus/Topic 08/Fraction Sort/fraction.h
+	<iostream>
+	<functional>
+
+1446168053 source:/home/silver/Git/ITSE-34669-Advanced-Cplusplus/Topic 08/Fraction Sort/fraction.cpp
+	"fraction.h"
+

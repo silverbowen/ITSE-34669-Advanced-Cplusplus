@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1445806799 source:/home/silver/Git/ITSE-34669-Advanced-Cplusplus/Topic 06/ProperFraction/driver.cpp
+	"ProperFraction.h"
+	<iostream>
+
+1445799866 /home/silver/Git/ITSE-34669-Advanced-Cplusplus/Topic 06/ProperFraction/fraction.h
+	<iostream>
+
+1445807766 source:/home/silver/Git/ITSE-34669-Advanced-Cplusplus/Topic 06/ProperFraction/fraction.cpp
+	"fraction.h"
+
+1445807766 source:/home/silver/Git/ITSE-34669-Advanced-Cplusplus/Topic 06/ProperFraction/ProperFraction.cpp
+	"ProperFraction.h"
+	<iostream>
+
+1445808437 /home/silver/Git/ITSE-34669-Advanced-Cplusplus/Topic 06/ProperFraction/ProperFraction.h
+	"fraction.h"
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1446581906 source:/home/silver/Git/ITSE-34669-Advanced-Cplusplus/Topc 10/Template Algorithms/driver.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
+1446585008 source:/home/silver/Git/ITSE-34669-Advanced-Cplusplus/Topic 10/Template Algorithms/driver.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

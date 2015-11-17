@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1447607521 source:/home/silver/Git/ITSE-34669-Advanced-Cplusplus/Topic 11/Concurrency Program/1ThreadCoinToss.cpp
+	<random>
+	<chrono>
+	<iostream>
+	<thread>
+
+1447610116 source:/home/silver/Git/ITSE-34669-Advanced-Cplusplus/Topic 11/Concurrency Program/0ThreadCoinToss.cpp
+	<random>
+	<chrono>
+	<iostream>
+	<thread>
+
+1447628521 source:/home/silver/Git/ITSE-34669-Advanced-Cplusplus/Topic 11/Concurrency Program/main.cpp
+	<random>
+	<time.h>
+	<iostream>
+	<thread>
+	<mutex>
+	<atomic>
+

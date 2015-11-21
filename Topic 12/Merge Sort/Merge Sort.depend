@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1448058646 source:/home/silver/Git/ITSE-34669-Advanced-Cplusplus/Topic 12/Merge Sort/Driver.cpp
+	<vector>
+	<iostream>
+	<algorithm>
+

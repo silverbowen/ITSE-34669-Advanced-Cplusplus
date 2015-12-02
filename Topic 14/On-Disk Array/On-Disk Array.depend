@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1449080659 source:/home/silver/Git/ITSE-34669-Advanced-Cplusplus/Topic 14/On-Disk Array/main.cpp
+	"OnDiskArray.h"
+	<string>
+
+1449080936 /home/silver/Git/ITSE-34669-Advanced-Cplusplus/Topic 14/On-Disk Array/OnDiskArray.h
+	<iostream>
+	<fstream>
+	<cstdlib>
+
+1449019331 source:/home/silver/Git/ITSE-34669-Advanced-Cplusplus/Topic 14/On-Disk Array/OnDiskArray.cpp
+	"OnDiskArray.h"
+

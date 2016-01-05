@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1449532402 source:/home/silver/Git/ITSE-34669-Advanced-Cplusplus/Topic 15/Topic 15/Main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<boost/archive/xml_iarchive.hpp>
+	<boost/archive/xml_oarchive.hpp>
+	<boost/serialization/vector.hpp>
+	<boost/serialization/nvp.hpp>
+
